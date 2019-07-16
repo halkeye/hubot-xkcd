@@ -1,6 +1,6 @@
 {
   "name": "@halkeye/hubot-xkcd",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Get links to XKCD comics with Hubot",
   "main": "index.js",
   "scripts": {
