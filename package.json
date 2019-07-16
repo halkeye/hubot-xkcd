@@ -1,25 +1,26 @@
 {
-  "name": "hubot-xkcd",
+  "name": "@halkeye/hubot-xkcd",
   "version": "0.0.5",
   "description": "Get links to XKCD comics with Hubot",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "repository": "nounoursheureux/hubot-xkcd",
+  "repository": "halkeye/hubot-xkcd",
   "keywords": [
     "xkcd",
     "hubot-scripts"
   ],
-  "author": "Nounours Heureux <schtroumps31@gmail.com>",
+  "author": "Gavin Mogan <npm@gavinmogan.com>",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/nounoursheureux/hubot-xkcd/issues"
+    "url": "https://github.com/halkeye/hubot-xkcd/issues"
   },
-  "homepage": "https://github.com/nounoursheureux/hubot-xkcd#readme",
+  "homepage": "https://github.com/halkeye/hubot-xkcd#readme",
   "devDependencies": {
     "hubot-test-helper": "^1.9.0",
     "mocha": "^6.1.4",
+    "np": "^5.0.3",
     "should": "^13.2.3"
   }
 }
