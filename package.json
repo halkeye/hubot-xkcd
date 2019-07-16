@@ -6,6 +6,11 @@
   "scripts": {
     "test": "mocha"
   },
+  "files": [
+    "README.md",
+    "index.js",
+    "lib"
+  ],
   "repository": "halkeye/hubot-xkcd",
   "keywords": [
     "xkcd",
